@@ -44,7 +44,7 @@ Description  : firewalld is a firewall service daemon that provides a dynamic cu
        
  ```
  
- #### To display the services or ports currently open on the firewall for the public zone,
+ #### To display the services or ports currently open on the firewall for the public zone.
  
  ```
  [root@ip-172-31-59-247 ~]# firewall-cmd --list-all --zone=public
